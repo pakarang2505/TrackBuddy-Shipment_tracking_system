@@ -12,7 +12,7 @@ TrackBuddy is a relational database system designed to track parcels across mult
 - Track parcels with real-time status updates (mockup data).  
 - User registration and authentication.  
 - Admin dashboard for staff management and parcel monitoring.  
-- Database diagrams (ER, context, and data flow) created with Draw.io.
+- Database diagrams (ER) created with Draw.io.
 
 ## Technologies
 SQL, Draw.io, Figma
